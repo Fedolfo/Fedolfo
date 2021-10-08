@@ -10,13 +10,7 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 
 <h5>O que já sei:</h5>
 <div>
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" height="35px" />
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" height="35px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" height="35px" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" height="35px" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="35px" />
-  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png" alt="tor" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
