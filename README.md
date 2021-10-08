@@ -26,8 +26,9 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/128/notion_logo_icon_145025.png">
-
 </div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fedolfo" alt="Filipe Cãndido" /></p>
 
 <h5>Meus contatos:</h5>
 <div>
