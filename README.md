@@ -13,8 +13,8 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
   <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/html.png" height="35px" />
   <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" height="35px" />
   <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/js.png" height="35px" />
-  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" height="35px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="35px" />
+  <img src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/redux.png" height="35px" />
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" height="35px" />
 </div>
 
