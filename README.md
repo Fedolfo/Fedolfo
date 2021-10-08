@@ -18,7 +18,6 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
   <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_lua_icon_130410.png" alt="lua" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/> 
    <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40" h       height="40"/> 
