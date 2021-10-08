@@ -35,6 +35,8 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fedolfo" alt="Filipe Cãndido" /></p>
 
+<hr/>
+
 <h5>Meus contatos:</h5>
 <div>
     <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
@@ -42,6 +44,7 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
     </a>
 </div>
 <br>
+<hr/>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Fedolfo&theme=dark&show_icons=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedolfo&theme=dark&show_icons=true" height="195px" />
