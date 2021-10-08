@@ -43,7 +43,6 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
     </a>
 </div>
-<br>
 <hr/>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Fedolfo&theme=dark&show_icons=true" />
