@@ -20,7 +20,7 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 
 <h5>Meus contatos:</h5>
 <div>
-    <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/ target="_blank">
+    <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
     </a>
 </div>
