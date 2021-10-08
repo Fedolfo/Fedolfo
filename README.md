@@ -38,5 +38,5 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 <br>
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Fedolfo&theme=dark&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedolfo" height="150px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedolfo&theme=dark&show_icons=true" height="150px" />
 </div>
