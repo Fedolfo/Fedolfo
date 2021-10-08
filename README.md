@@ -23,9 +23,6 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
     <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
     </a>
-    <a href="mailto:filipecandido123@hotmail.com">
-        <img src="https://img.shields.io/badge/H-Hotmail-blue" height="25px">
-    </a>
 </div>
 <br>
 <div>
