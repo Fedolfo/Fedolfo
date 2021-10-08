@@ -19,8 +19,6 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
   <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/tor_browser_logo_icon_152955.png" alt="tor" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vim_original_logo_icon_146312.png" alt="vim" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/nvim_94554.png" alt="neovim" width="40" height="40" />
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
   <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
