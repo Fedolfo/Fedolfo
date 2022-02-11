@@ -30,10 +30,6 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 
 <hr/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fedolfo" alt="Filipe Cãndido" /></p>
-
-<hr/>
-
 <h5>Meus contatos:</h5>
 <div>
     <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
