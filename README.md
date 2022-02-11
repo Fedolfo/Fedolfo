@@ -18,7 +18,7 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="40" height="40"/>
 <hr/>
 <h5>Ferramentas:</h5>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="60" />
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png">
   <img height="40" width="40" src="https://cdn.icon-icons.com/icons2/2389/PNG/128/notion_logo_icon_145025.png">
