@@ -24,7 +24,10 @@ Olá, me chamo **Filipe Cândido**, sou da região metropolitona de Belo Horizon
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
 <img src="https://pm2.keymetrics.io/assets/logo.png" alt="pm2" width="100" height="40" />
 </p>
+
 <hr/>
+
+<div>
 <h5>Ferramentas:</h5>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
