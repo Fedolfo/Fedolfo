@@ -4,8 +4,6 @@ Olá, me chamo **Filipe Cândido**, sou da região metropolitona de Belo Horizon
 
 <h5>Linguagens é Frameworks:</h5>
 <p align="left">
-<img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
-<img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40"/> 
 <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/>
@@ -29,6 +27,8 @@ Olá, me chamo **Filipe Cândido**, sou da região metropolitona de Belo Horizon
 
 <div>
 <h5>Ferramentas:</h5>
+  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
+  <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png">
   <img width="40" height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png">
