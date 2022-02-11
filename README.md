@@ -2,14 +2,6 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 
 <hr/>
 
-<h5>Meus hobbies:</h5> 
-
-* :video_game: Videogame
-* :tv: Séries e Filmes
-* :computer: Programar
-
-<hr/>
-
 <h5>Linguagens é Frameworks:</h5>
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
