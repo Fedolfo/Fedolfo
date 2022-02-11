@@ -20,8 +20,7 @@ Olá, me chamo **Filipe Cândido**, sou da região metropolitona de Belo Horizon
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" />
 <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="sequelize" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" />
-<img src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67
-" alt="chai sinon" width="40" height="40" />
+<imgsrc="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" alt="chai sinon" width="40" height="40" />
 </p>
 
 <hr/>
