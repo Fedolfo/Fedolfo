@@ -42,7 +42,10 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
     <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
     </a>
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-eeeeee?style=flat-square&logo=microsoftoutlook&logoColor=blue)](filipecandido123@hotmail.com)
+<a href="filipecandido123@hotmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Outlook-eeeeee?style=flat-square&logo=microsoftoutlook&logoColor=blue" height="25px">
+    </a>
+
 </div>
 <hr/>
 <div>
