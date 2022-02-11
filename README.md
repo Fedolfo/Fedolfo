@@ -6,16 +6,16 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
 <div>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html5" width="40" height="40"/> 
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css3" width="40" height="40"/> 
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
-  <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="40" height="40"/> 
-   <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40" h       height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="60" height="55"/>
+  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="60" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="60" height="60" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="60" height="60"/> 
+  <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60" />
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_jest_icon_130514.png" alt="jest" width="60" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="60" height="60"/> 
+   <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library"width="60" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="60" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="60" height="60"/>
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="60" height="60"/>
 
 <hr/>
