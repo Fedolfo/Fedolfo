@@ -16,7 +16,7 @@ Olá, me chamo **Filipe Cândido**, sou de Belo Horizonte, e atualmente curso **
    <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40" h       height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="40" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="60" height="55"/>
-  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="50" height="50"/>
+  <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="60" height="60"/>
 
 <hr/>
 <h5>Ferramentas:</h5>
