@@ -17,7 +17,7 @@ Olá, me chamo **Filipe Cândido**, sou da região metropolitona de Belo Horizon
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="redux" width="50" height="50"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png" alt="mysql" width="60" height="60"/>
   <img src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg" alt="nodejs" width="60" height="60"/>
-  <img src="https://stringfixer.com/files/29940418.jpg" alt="expressJs" width="70" height="70"/>
+  <img src="https://stringfixer.com/files/29940418.jpg" alt="expressJs" width="100" height="60"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/heroku_plain_wordmark_logo_icon_146480.png" alt="heroku" width="50" height="50"/>
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="TypeScript" width="50" height="50"/>
 
