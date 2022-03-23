@@ -1,4 +1,4 @@
-Olá, me chamo **Filipe Cândido**, sou da região metropolitona de Belo Horizonte, moro na cidade de Vespasiano, e atualmente curso **Desenvolvimento Web** na Trybe!
+Olá, me chamo **Filipe Cândido**, sou da região metropolitana de Belo Horizonte, moro na cidade de Vespasiano, e atualmente curso **Desenvolvimento Web** na Trybe!
 
 <hr/>
 
