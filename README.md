@@ -47,6 +47,9 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
     <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px">
     </a>
+    <a href="https://api.whatsapp.com/send?phone=5531988191079" target="_blank">
+        <img src="https://img.shields.io/badge/-WhatsApp-green" height="25px">
+    </a>
 </div>
 <hr/>
 <div>
