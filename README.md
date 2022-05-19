@@ -51,6 +51,7 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
         <img src="https://img.shields.io/badge/-WhatsApp-green" alt="whatsApp" height="25px">
     </a>
 </div>
-<div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedolfo&show_icons=true&theme=radical)
+
 <hr/>
