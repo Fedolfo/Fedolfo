@@ -53,5 +53,6 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedolfo&show_icons=true&theme=radical)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fedolfo)](https://github.com/Fedolfo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr/>
