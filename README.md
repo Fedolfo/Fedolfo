@@ -21,7 +21,7 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Jwt](https://img.shields.io/badge/-jsonwebtoken-blue?style=for-the-badge&logo=redux&logoColor=white)
+![Jwt](https://img.shields.io/badge/-jwt-blue?style=for-the-badge&logo=redux&logoColor=white)
 
 <hr/>
 
