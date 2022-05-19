@@ -11,6 +11,8 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
   <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40"   height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
   <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" />
+</p>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,8 +30,6 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
 
 <hr/>
 
