@@ -5,13 +5,6 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 <hr/>
 
 <h5>Linguagens é Frameworks:</h5>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
-
-  <img src="https://user-images.githubusercontent.com/80691766/134706033-799f21ca-b461-4c2d-8a03-417b134cc8dd.png" alt="react-testing-library" width="40"   height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
-  <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40" />
-</p>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,23 +21,16 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Jwt](https://img.shields.io/badge/-jsonwebtoken-blue?style=for-the-badge&logo=redux&logoColor=white)
+
 <hr/>
 
-<div>
 <h5>Ferramentas:</h5>
-  <img src="https://cdn.icon-icons.com/icons2/195/PNG/256/OS_Linux_23399.png" alt="linux" width="40" height="40" />
-  <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2108/PNG/128/slack_icon_130829.png" alt="slack" width="40" height="40">
-  <img src="https://cdn.icon-icons.com/icons2/836/PNG/128/Trello_icon-icons.com_66775.png" alt="trello" width="40" height="40">
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/128/notion_logo_icon_145025.png" alt="notion" width="40" height="40">
-  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="40" height="40"/> 
-</div>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vscode](https://img.shields.io/badge/-vscode-informational?style=for-thebadge&logo=vscode&logoColor=white)
+  
 <hr/>
 
 <h5>Meus contatos:</h5>
@@ -65,3 +51,5 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 </div>
 
 <hr/>
+
+Inspirado por [Gabriel Gaspar](https://github.com/GabrielGaspar447)
