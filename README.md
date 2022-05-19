@@ -29,7 +29,7 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/-vscode-informational?style=for-thebadge&logo=vscode&logoColor=white)
+![Vscode](https://img.shields.io/badge/-vscode-informational?style=for-the-badge&logo=vscode&logoColor=white)
   
 <hr/>
 
