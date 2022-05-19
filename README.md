@@ -52,5 +52,5 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
     </a>
 </div>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=Fedolfo)](https://github.com/Fedolfo/github-readme-stats)" height="180em">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedolfo&show_icons=true&theme=radical)
 <hr/>
