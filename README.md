@@ -30,7 +30,7 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Jwt](https://img.shields.io/badge/-jsonwebtoken-blue?style=for-the-badge&logo=redux&logoColor=white)
 <hr/>
 
 <div>
