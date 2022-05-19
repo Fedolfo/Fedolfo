@@ -52,8 +52,11 @@ Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhad
     </a>
 </div>
 
+<hr/>
+
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fedolfo&show_icons=true&theme=nightowl" alt="Filipe-Cândido">
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fedolfo&layout=compact&theme=nightowl" alt="Filipe Cândido">
 </div>
+
 <hr/>
