@@ -1,4 +1,4 @@
-Olá, me chamo **Filipe Cândido**, sou da região metropolitana de Belo Horizonte, moro na cidade de Vespasiano, e atualmente curso **Desenvolvimento Web** na Trybe!
+Olá, me chamo **Filipe Cândido**, sou da região metropolitana de Belo Horizonte, moro na cidade de Vespasiano, e atualmente conclui o curso **Desenvolvimento Web** na Trybe!
 
 Para saber sobre todo o meu aprendizado que estou tendo na Trybe, deem uma olhada no repositorio [trybe-exercises](https://github.com/Fedolfo/trybe-exercises)!
 
