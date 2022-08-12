@@ -43,6 +43,9 @@ Atualmente estou aprendendo sobre SOLID!
     <a href="https://api.whatsapp.com/send?phone=5531988191079" target="_blank">
         <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp" height="25px">
     </a>
+    <a href="mailto:filipecandido123@hotmail.com?subject=Gostaria de me contratar?" target="_blank">
+       <img align="right" src="[https://cdn.iconscout.com/icon/free/png-256/gmail-2981844-2476484.png](https://iconscout.com/icon/microsoft-outlook-1682947)"                   alt="hotmail icon" width="48px" height="48px">
+    </a>
 </div>
 
 <hr/>
