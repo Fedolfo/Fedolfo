@@ -2,7 +2,7 @@ Olá, me chamo **Filipe Cândido**, sou da região metropolitana de Belo Horizon
 
 Para saber sobre todo o meu aprendizado que obtive na Trybe, deem uma olhada no repositório [trybe-exercises](https://github.com/Fedolfo/trybe-exercises)!
 
-Atualmente estou aprendendo sobre SOLID!
+Atualmente, estou aprendendo sobre SOLID!
 
 <hr/>
 
