@@ -44,7 +44,7 @@ Atualmente estou aprendendo sobre SOLID!
         <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp" height="25px">
     </a>
     <a href="mailto:filipecandido123@hotmail.com?subject=Gostaria de me contratar?" target="_blank">
-        <img src="https://img.shields.io/badge/-hotmail-blue" alt="hotmail" height="25px">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail" height="25px">
     </a>
 </div>
 
