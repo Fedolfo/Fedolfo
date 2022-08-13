@@ -36,7 +36,7 @@ Atualmente estou aprendendo sobre SOLID!
 <hr/>
 
 <h5>Meus contatos:</h5>
-<div>
+<div left>
     <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="25px">
     </a>
@@ -44,7 +44,7 @@ Atualmente estou aprendendo sobre SOLID!
         <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp" height="25px">
     </a>
     <a href="mailto:filipecandido123@hotmail.com?subject=Gostaria de me contratar?" target="_blank">
-       <img align="right" src="https://img.shields.io/badge/-hotmail-blue" alt="hotmail icon" height="25px">
+       <img align="right" src="https://img.shields.io/badge/-hotmail-blue" alt="hotmail" height="25px">
     </a>
 </div>
 
