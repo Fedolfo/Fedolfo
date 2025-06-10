@@ -4,9 +4,19 @@ Para saber sobre todo o meu aprendizado que obtive na Trybe, deem uma olhada no 
 
 Atualmente estou aprendendo sobre SOLID!
 
+<p>
+I’m a Full Stack Developer with solid experience in building modern web applications using technologies like <strong>JavaScript, TypeScript, React, Vue.js, and Node.js</strong>. I work on both front-end and back-end, focusing on scalable, high-performance, and high-quality solutions.
+
+I have hands-on experience developing complex features, refactoring legacy code, and implementing structural improvements with attention to organization, performance, and maintainability. I work with relational and non-relational databases (MySQL, MongoDB), automated testing (Jest, Mocha, Chai), and use Docker, Git, and CI/CD to ensure consistent environments and continuous delivery.
+
+I follow good development practices like test-driven development, clean version control, and solid software architecture. I'm also familiar with agile methodologies such as Scrum and Kanban, and I value collaboration, communication, and efficiency in the development process.
+
+I’m always looking to improve technically, staying updated with new technologies and industry standards. I'm ready to face technical challenges with responsibility, autonomy, and commitment to results
+</p>
+
 <hr/>
 
-<h5>Linguagens é Frameworks:</h5>
+<h5>Language and Frameworks:</h5>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,7 +37,7 @@ Atualmente estou aprendendo sobre SOLID!
 
 <hr/>
 
-<h5>Ferramentas:</h5>
+<h5>Tools:</h5>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -35,16 +45,10 @@ Atualmente estou aprendendo sobre SOLID!
   
 <hr/>
 
-<h5>Meus contatos:</h5>
+<h5>My contacts:</h5>
 <div>
-    <a href="https://www.linkedin.com/in/filipe-c%C3%A2ndido/" target="_blank">
+    <a href="[https://www.linkedin.com/in/filipe-c%C3%A2ndido/](https://www.linkedin.com/in/filipe-candido-dev/)" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="25px">
-    </a>
-    <a href="https://api.whatsapp.com/send?phone=5531988191079" target="_blank">
-        <img src="https://img.shields.io/badge/-WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsApp" height="25px">
-    </a>
-    <a href="mailto:filipecandido123@hotmail.com?subject=Gostaria de me contratar?" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="hotmail" height="25px">
     </a>
 </div>
 
@@ -56,5 +60,3 @@ Atualmente estou aprendendo sobre SOLID!
 </div>
 
 <hr/>
-
-Inspirado por [Gabriel Gaspar](https://github.com/GabrielGaspar447)
