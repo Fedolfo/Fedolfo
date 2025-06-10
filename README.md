@@ -1,9 +1,3 @@
-Olá, me chamo **Filipe Cândido**, sou da região metropolitana de Belo Horizonte, moro na cidade de Vespasiano, e atualmente concluí o curso **Desenvolvimento Web** na Trybe!
-
-Para saber sobre todo o meu aprendizado que obtive na Trybe, deem uma olhada no repositório [trybe-exercises](https://github.com/Fedolfo/trybe-exercises)!
-
-Atualmente estou aprendendo sobre SOLID!
-
 <p>
 I’m a Full Stack Developer with solid experience in building modern web applications using technologies like <strong>JavaScript, TypeScript, React, Vue.js, and Node.js</strong>. I work on both front-end and back-end, focusing on scalable, high-performance, and high-quality solutions.
 
